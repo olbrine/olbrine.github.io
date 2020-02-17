@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand&display=swap');
 body{
-  font-family: 'Modak', cursive;
+  font-family: 'Gochi Hand', cursive;
 
 }
 h1 {color: orange;
@@ -13,6 +13,7 @@ h1 {color: orange;
   /* font-size: 12px; */
   font-size: 400%;
 /* font-family: 'Modak', cursive; */
+font-weight: 200;
 }
 p{
   font-weight: 900;
@@ -29,4 +30,11 @@ a{
 }
 a:hover{
   background-color: pink;
+}
+.forces{
+  font-weight: 400;
+  color: orange;
+}
+.Tupac{
+  color: magenta;
 }
