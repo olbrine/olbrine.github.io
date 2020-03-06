@@ -1,0 +1,40 @@
+body{
+  background-color: skyblue;
+  max-width: 500px;
+  margin: 0 auto;
+}
+header{
+  background-color: orange;
+  border: 3px solid white;
+  /* padding is for space between content and border */
+  padding: 30px;
+  margin: 50px;
+  /* margin is for the space between the border and other boxes */
+  height: 400px;
+  width: 400px;
+/* height and width is for the content itself */
+}
+main{
+  height: 100%;
+  width:100%;
+  background-color: orange;
+  border: 3px solid white;
+  padding: 30px 50px;
+  margin: 50px;
+  height: 400px;
+  width: 400px;
+}
+.wed{
+  background-color: yellow;
+  /* if you have 4 values of padding,
+  they are applied in clockwise order around
+  the box; top, bottom, right left */
+  padding: 40px 20px 10px 100px;
+  margin: -40px 9000px 22px 13px;
+}
+footer{
+  background-color: orange;
+  border: 3px solid white;
+  padding: 30px;
+  margin: 50px;
+}

@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css?family=Corben&display=swap');
+body{
+  font-family: 'Corben', cursive;
+
+}
+h1 {color: orange;
+
+  background-color: skyblue;
+  text-align: right;
+  font-size:140%;
+  font-size: 12pt;
+  /* font-size: 12px; */
+  font-size: 400%;
+/* font-family: 'Modak', cursive; */
+font-weight: 200;
+}
+p{
+  font-weight: 900;
+  line-height: 1.65;
+  text-indent: 15%;
+}
+b, strong{
+  font-weight: 200;
+}
+a{
+  color:teal;
+  text-decoration: none;
+  /* text decoration none removes the underline */
+}
+a:hover{
+  background-color: pink;
+}
+.forces{
+  font-weight: 400;
+  color: orange;
+}
+.Tupac{
+  color: magenta;
+}
