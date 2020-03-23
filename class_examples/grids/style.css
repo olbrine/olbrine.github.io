@@ -19,12 +19,12 @@ section {
 .grid1-container {
   display: grid;
   /* you can use the following two properties to define the height of your rows or the width of your columns. Units you can use for this are px, %, fr units, and em/rem. */
-  grid-template-columns: 150px 150px;
-  grid-template-rows: 150px 150px;
+  grid-template-columns: 500px 500px;
+  grid-template-rows: 500px 500px;
 
   /* grid-column-gap and grid-row-gap let you set the spacing between grid cells. You can set them uniformly using the grid-gap property. */
-  grid-column-gap: 20px;
-  grid-row-gap: 30px;
+  grid-column-gap: 50px;
+  grid-row-gap: 70px;
 }
 
 .grid1-img-1 {
