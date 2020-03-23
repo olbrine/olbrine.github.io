@@ -11,16 +11,19 @@ body{
 .grid1-img-1{
   grid-column: 1/2;
   grid-row: 1/2;
+
 }
 .grid1-img-2{
   grid-column: 1/2;
   grid-row: 2/3;
+
 }
 .grid1-img-3{
   grid-column: 1/2;
   grid-row: 3/4;
 }
 .grid1-img-4{
+  width: 100%;
   grid-column: 1/2;
   grid-row:4/5;
 }
@@ -40,4 +43,6 @@ a:hover{
 p, h3, h2{
 color: gold;
 }
+
+
   }
