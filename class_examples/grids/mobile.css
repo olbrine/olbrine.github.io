@@ -5,9 +5,18 @@ body{
 
   }
   .header-font{
-    color:gold;
-    font-size:150px; 
+    color:green;
+    font-size:150px;
   }
 .grid4-text{
-  color: gold;
+  color: green;
 }
+h2{
+  font-size: 30px;
+  color: green;}
+  a{
+      color: green;
+    }
+  a:hover{
+      color:yellow;
+    }
