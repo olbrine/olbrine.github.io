@@ -3,7 +3,7 @@
 body {
   width: 900px;
   margin: 0 auto;
-  border: 10px solid yellow;
+  border: 10px solid gold;
   background-color: green;
   font-family: 'Lacquer' ;
 
@@ -28,14 +28,14 @@ section {
   margin-bottom: 3%;
 }
 h2{
-  font-size: 30px;
-  color: yellow;
+  font-size: 40px;
+  color: gold;
 }
 .tags{
   text-align: center;
 }
 a{
-    color: yellow;
+    color: gold;
   }
 a:hover{
     color:white;
@@ -45,7 +45,10 @@ a:hover{
   font-size: 200px;
   text-align: center;
   margin: 0;}
+p, h2{
+  margin-left: 1%;
 
+}
 .grid4-text{
     color: white;
     font-size: 30px;
@@ -64,8 +67,5 @@ a:hover{
 /* End of mixed grid */
 
 footer {
-  margin-top: 120px;
-  padding-top: 10px;
-  height: 150px;
   color: white;
 }
