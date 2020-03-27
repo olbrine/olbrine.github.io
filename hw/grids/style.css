@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
 
 body {
-  width: 900px;
+  max-width: 900px;
   margin: 0 auto;
   border: 10px solid gold;
   background-color: green;
@@ -63,9 +63,9 @@ p, h2{
 }
 /* Text 1 - Putting a headline and two different paragraphs in separate columns*/
 
-.
 /* End of mixed grid */
 
 footer {
   color: white;
+  margin-top;50px;
 }

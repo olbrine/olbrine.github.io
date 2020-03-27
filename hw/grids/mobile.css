@@ -2,11 +2,10 @@
   /* What goes here? Put in here the css for things that need to change at this size. */
 body{
   background-color: white;
-
   }
   .header-font{
     color:green;
-    font-size:150px;
+    font-size:94px;
   }
 .grid4-text{
   color: green;
@@ -20,3 +19,11 @@ h2{
   a:hover{
       color:yellow;
     }
+footer{
+  color:green;
+}
+.grid4-img, .grid5-img, .header-photo{
+  width: 95%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
