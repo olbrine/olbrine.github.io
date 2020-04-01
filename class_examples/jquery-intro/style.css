@@ -3,3 +3,12 @@
 body {
   font-family: 'Coiny', cursive;
 }
+
+#title {
+  color: MediumSpringGreen;
+}
+
+.big-text {
+  color: brown;
+  font-size: 120px;
+}
