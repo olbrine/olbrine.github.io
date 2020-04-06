@@ -3,13 +3,14 @@ $(document).ready(function() {
   console.log("we loaded");
 
   $("#button1").click(function() {
-    // $("#title").css("color", "#f9423a");
-    // $("#title").css("font-size, 500px")
+    $("#title").css("color", "pink");
+    // $("#title").css("font-size", "500px");
     $("#title").addClass("big-text");
   })
 
   $("#button2").click(function() {
     $("#title").removeClass("big-text");
+    console.log("this-ran");
   })
 
   $("p").mouseover(function() {
@@ -18,11 +19,12 @@ $(document).ready(function() {
   })
 
   $("p").mouseleave(function() {
-    $("p").css("background-color", "pink");
-    $("p").css("font-size", "16px")
+    // $("p").css("background-color", "pink");
+    // $("p").css("font-size", "16px")
 
   })
-  // $("#title").css("color", "MediumSpringGreen");
+
+  $("#title").css("color", "MediumSpringGreen");
   $("#title").css("font-size", "95px");
   $("#title").html("How to Make a Tie-Dye Shirt");
   $("#heading1").css("color", "gold");
