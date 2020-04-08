@@ -4,9 +4,11 @@ body {
   font-family: 'Coiny', cursive;
 }
 
-/* #title {
+#title {
   color: MediumSpringGreen;
-} */
+  font-size: 95px;
+}
+
 .big-text {
   color: pink;
 }
