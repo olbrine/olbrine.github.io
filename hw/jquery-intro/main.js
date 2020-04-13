@@ -5,11 +5,14 @@ $(document).ready(function() {
   $("p").mouseover(function() {
     $("p").css("font-size", "37px");
     $("p").css("background-color", "white");
-
   })
   $("p").mouseleave(function() {
     $("p").css("font-size", "30px")
-    $("p").removeClass("background-color");
+    $("p").css("background-color", "transparent");
+  })
+  $("#tags").mouseover(function() {
+    $("#tags").css("backgroud-color", "#4d3219");
+    $("#tags").css("");
   })
 
 })
