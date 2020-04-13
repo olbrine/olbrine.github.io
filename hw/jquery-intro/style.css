@@ -1,14 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
 
 body {
-  font-family: 'Coiny', cursive;
+  background-color: #996633;
 }
 
 #title {
-  color: MediumSpringGreen;
+  font-family: 'Great Vibes', cursive;
+  color: #ffff99;
   font-size: 95px;
+  text-align: center;
 }
 
-.big-text {
-  color: pink;
+#heading {
+  font-family: 'Great Vibes', cursive;
+  color: #ffcc66;
+  font-size: 75px;
+  text-align: center;
+}
+
+#intro {
+  font-family: 'Tangerine', cursive;
+  font-size: 30px;
+  color: #ff9933;
+  text-align: center;
+}
+
+#NOMA, #Swamp, #Saint, #Cafe, #Food {
+  font-family: 'Tangerine', cursive;
+  color: #e6ccb3;
 }
