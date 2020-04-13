@@ -26,6 +26,10 @@ body {
   text-align: center;
 }
 
+#tags {
+  text-align: center;
+}
+
 #NOMA, #Swamp, #Saint, #Cafe, #Food {
   font-family: 'Tangerine', cursive;
   color: #e6ccb3;
