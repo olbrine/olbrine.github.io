@@ -10,9 +10,8 @@ $(document).ready(function() {
     $("p").css("font-size", "30px")
     $("p").css("background-color", "transparent");
   })
-  $("#tags").mouseover(function() {
-    $("#tags").css("backgroud-color", "#4d3219");
-    $("#tags").css("");
-  })
 
+  $("#NOMA").mouseover(function() {
+    $("#NOMA").css("backgroud-color", "#4d3219");
+  })
 })
