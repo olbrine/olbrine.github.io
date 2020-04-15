@@ -2,36 +2,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
 
 body {
-  background-color: #996633;
+  background-color: gold;
+}
+
+h3 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 60px;
 }
 
 #title {
   font-family: 'Great Vibes', cursive;
-  color: #ffff99;
+  color: green;
   font-size: 95px;
   text-align: center;
 }
 
 #heading {
   font-family: 'Great Vibes', cursive;
-  color: #ffcc66;
+  color: purple;
   font-size: 75px;
   text-align: center;
 }
 
 #intro {
   font-family: 'Tangerine', cursive;
-  font-size: 30px;
-  color: #ff9933;
-  text-align: center;
-}
-
-#tags {
-  text-align: center;
-}
-
-.NOMA, .Swamp, .Saint, .Cafe, .Food {
-  font-family: 'Tangerine', cursive;
-  color: white;
   font-size: 40px;
+  color: green;
+  text-align: center;
 }

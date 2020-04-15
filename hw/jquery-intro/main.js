@@ -3,11 +3,11 @@ $(document).ready(function() {
   console.log("we loaded");
 
   $("p").mouseover(function() {
-    $("p").css("font-size", "37px");
-    $("p").css("background-color", "white");
+    $("p").css("font-size", "45px");
+    $("p").css("background-color", "purple");
   })
   $("p").mouseleave(function() {
-    $("p").css("font-size", "30px")
+    $("p").css("font-size", "40px")
     $("p").css("background-color", "transparent");
   })
 
