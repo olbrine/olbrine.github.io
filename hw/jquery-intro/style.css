@@ -9,7 +9,14 @@ h3 {
   font-family: 'Great Vibes', cursive;
   font-size: 60px;
   text-align: center;
-  color: green;
+  color: purple;
+}
+
+h4 {
+  font-family: 'Tangerine', cursive;
+  font-size: 30px;
+  color: red;
+  text-align: center;
 }
 
 #title {
@@ -33,7 +40,7 @@ h3 {
   text-align: center;
 }
 
-.cafe {
+#cafe {
   width: 40%;
   height: 40%;
   display: block;
@@ -41,7 +48,7 @@ h3 {
   margin-right: auto;
 }
 
-.food {
+#food {
   width: 40%;
   height: 40%;
   display: block;
@@ -49,7 +56,7 @@ h3 {
   margin-right: auto;
 }
 
-.Swamp {
+#Swamp {
   width: 40%;
   height: 40%;
   display: block;
@@ -57,7 +64,7 @@ h3 {
   margin-right: auto;
 }
 
-.Saint {
+#Saint {
   width: 40%;
   height: 40%;
   display: block;
@@ -65,7 +72,7 @@ h3 {
   margin-right: auto;
 }
 
-.NOMA {
+#NOMA {
   width: 40%;
   height: 40%;
   display: block;
