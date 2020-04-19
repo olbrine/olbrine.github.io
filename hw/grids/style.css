@@ -5,14 +5,14 @@ body {
   margin: 0 auto;
   border: 10px solid gold;
   background-color: green;
-  font-family: 'Lacquer' ;
-
+  font-family: 'Lacquer';
 }
-.header-photo{
+
+.header-photo {
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 
 nav {
@@ -20,6 +20,7 @@ nav {
   color: white;
   margin-bottom: 100px;
 }
+
 .grid4-container {
   display: grid;
 }
@@ -27,45 +28,51 @@ nav {
 section {
   margin-bottom: 3%;
 }
-h2{
+
+h2 {
   font-size: 40px;
   color: gold;
 }
-.tags{
+
+.tags {
   text-align: center;
 }
-a{
-    color: gold;
-  }
-a:hover{
-    color:white;
-  }
-.header-font{
+
+a {
+  color: gold;
+}
+
+a:hover {
+  color: white;
+}
+
+.header-font {
   color: white;
   font-size: 200px;
   text-align: center;
-  margin: 0;}
-p, h2{
-  margin-left: 1%;
-
+  margin: 0;
 }
-.grid4-text{
-    color: white;
-    font-size: 30px;
-  }
+
+p, h2 {
+  margin-left: 1%;
+}
+
+.grid4-text {
+  color: white;
+  font-size: 30px;
+}
 
 /* A gallery grid */
-.grid4-img, .grid5-img{
+.grid4-img, .grid5-img {
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
+
 /* Text 1 - Putting a headline and two different paragraphs in separate columns*/
-
 /* End of mixed grid */
-
 footer {
   color: white;
-  margin-top;50px;
+  margin-top: 50px;
 }
