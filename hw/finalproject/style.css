@@ -188,3 +188,7 @@ p {
   grid-row-start: 6;
   grid-row-end: 7;
 }
+
+footer {
+  font-family: 'Chakra Petch', sans-serif;
+}
