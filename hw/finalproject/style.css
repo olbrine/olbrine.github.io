@@ -1,0 +1,31 @@
+body {
+  background-color: orange;
+  width: 800px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+}
+
+.shoe1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+}
+
+.shoepic1 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-row-end: 2;
+}
+
+.words1 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-column-start: 1;
+  grid-row-end: 2;
+}
