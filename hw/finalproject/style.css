@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 body {
-  background-color: orange;
+  background-color: grey;
   width: auto;
 }
 
@@ -21,6 +22,14 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 70%;
+}
+
+h2 {
+  font-family: 'Rock Salt', cursive;
+}
+
+p {
+  font-family: 'Chakra Petch', sans-serif;
 }
 
 .grid-container {
@@ -128,4 +137,54 @@ h1 {
   grid-column-end: 4;
   grid-row-start: 4;
   grid-row-end: 5;
+}
+
+.shoe5 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 5;
+  grid-row-end: 6;
+}
+
+.shoepic5 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 5;
+  grid-row-end: 6;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.words5 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 5;
+  grid-row-end: 6;
+}
+
+.shoe6 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+
+.shoepic6 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 6;
+  grid-row-end: 7;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.words6 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 6;
+  grid-row-end: 7;
 }
