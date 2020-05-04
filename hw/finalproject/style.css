@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 body {
-  background-color: grey;
+  background-color: cyan;
   width: auto;
 }
 
@@ -187,6 +187,15 @@ p {
   grid-column-end: 4;
   grid-row-start: 6;
   grid-row-end: 7;
+}
+
+.gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 footer {
